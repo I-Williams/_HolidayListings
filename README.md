@@ -1,7 +1,7 @@
 # _HolidayListings
 
 ## Intro
- A simple site that lists fun holidays. The site also allows you to delete and clear the whole list of holidays and is built using React
+ A site that lists fun holidays. The site also allows you to delete and clear the whole list of holidays and is built using React
 
 ## URL
 https://holidaylistings.onrender.com/
